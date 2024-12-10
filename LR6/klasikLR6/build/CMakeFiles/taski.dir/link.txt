@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address CMakeFiles/taski.dir/task.cpp.o -o taski
