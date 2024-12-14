@@ -1,0 +1,3 @@
+/home/vlen/projects/453501/ОАиП/LR7/klasLR7/build/CMakeFiles/taski.dir
+/home/vlen/projects/453501/ОАиП/LR7/klasLR7/build/CMakeFiles/edit_cache.dir
+/home/vlen/projects/453501/ОАиП/LR7/klasLR7/build/CMakeFiles/rebuild_cache.dir
